@@ -1,5 +1,8 @@
 ## Hola, I'm [Aman Chourasia!](https://www.amanchourasia.in) 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchourasiayt&label=Views&color=blue&style=flat" alt="amanchourasiayt" /> </p>
+
+
 - 🔭 I’m currently working on my [Blog!](https://www.amanchourasia.in).
 - 🌱 I’m currently learning Web Developement.
 - 👯 I’m looking to collaborate on [Youtube!](https://www.youtube.com/amanchourasia).
@@ -11,12 +14,23 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
-
+<div style="overflow: hidden;white-space: nowrap;">
+<code><img height="20" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" title="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
+<code><img height="20" title="JAVA" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>   
+</div>
+<br/>
+<a href="https://github.com/amanchourasiayt">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchourasiayt&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<br/>
+<a href="https://github.com/amanchourasiayt">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchourasiayt&layout=compact&hide_langs_below=1" alt="Pawan's github stats"/>
+</a>
+  
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
