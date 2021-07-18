@@ -2,6 +2,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchourasiayt&label=Views&color=blue&style=flat" alt="amanchourasiayt" /> </p>
 
+<a href="https://twitter.com/Aman_Chourasia_">
+  <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/AmanChourasia">
+  <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/amanchourasiayt">
+  <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/aman_chourasia">
+  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/amanchourasia.in/">
+  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/AmanChourasia/">
+  <img align="left" alt="Aman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<br/>
+<br/
+
 
 - 🔭 I’m currently working on my [Blog!](https://www.amanchourasia.in).
 - 🌱 I’m currently learning Web Developement.
