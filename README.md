@@ -46,9 +46,6 @@
 <code><img height="20" title="Figma" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>   
 </div>
 <br/>
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <br>
 <a href="https://github.com/amanchourasiayt">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchourasiayt&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
