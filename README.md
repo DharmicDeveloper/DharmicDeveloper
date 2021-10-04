@@ -1,6 +1,6 @@
 ## Hola, I'm [Aman Chourasia!](https://www.amanchourasia.in) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanchourasiayt&label=Views&color=blue&style=flat" alt="amanchourasiayt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingshack&label=Views&color=blue&style=flat" alt="codingshack" /> </p>
 
 <a href="https://twitter.com/Aman_Chourasia_">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/AmanChourasia">
   <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/amanchourasiayt">
+<a href="https://github.com/codingshack">
   <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/aman_chourasia">
@@ -48,12 +48,12 @@
 </div>
 <br/>
 <br>
-<a href="https://github.com/amanchourasiayt">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanchourasiayt&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
+<a href="https://github.com/codingshack">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingshack&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
 </a>
 <br/><br/>
-<a href="https://github.com/amanchourasiayt">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanchourasiayt&layout=compact&hide_langs_below=1" alt="Aman's github stats"/>
+<a href="https://github.com/codingshack">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingshack&layout=compact&hide_langs_below=1" alt="Aman's github stats"/>
 </a>
   
 <div align="center">
