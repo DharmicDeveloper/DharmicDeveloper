@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingshack&label=Views&color=blue&style=flat" alt="codingshack" /> </p>
 
-<a href="https://twitter.com/Aman_Chourasia_">
+<a href="https://twitter.com/CodingShack">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/AmanChourasia">
@@ -30,7 +30,7 @@
 - 👯 I’m looking to collaborate on [Youtube!](https://www.youtube.com/amanchourasia).
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Web Developement or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @Aman_Chourasia_](https://twitter.com/Aman_Chourasia_), [Youtube - @amanchourasia](https://www.youtube.com/amanchourasia).
+- 📫 How to reach me: [Twitter - @CodingShack](https://twitter.com/CodingShack), [Youtube - @AmanChourasia](https://www.youtube.com/amanchourasia).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 <br>
