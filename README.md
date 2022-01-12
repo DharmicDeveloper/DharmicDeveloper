@@ -28,8 +28,8 @@
 - 🔭 I’m currently working on my [Blog!](https://www.amanchourasia.in).
 - 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on [Youtube!](https://www.youtube.com/amanchourasia).
-- 🤔 I’m looking for help with Java.
-- 💬 Ask me about Web Developement or any tech-related stuff.
+- 🤔 I’m looking for help with Python.
+- 💬 Ask me about Java or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @CodingShack](https://twitter.com/CodingShack), [Youtube - @AmanChourasia](https://www.youtube.com/amanchourasia).
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
