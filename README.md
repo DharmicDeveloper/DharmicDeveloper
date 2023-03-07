@@ -1,14 +1,14 @@
 ## Hola, I'm [Aman Chourasia!](https://www.amanchourasia.in) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodingShack&label=Views&color=blue&style=flat" alt="CodingShack" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DharmicDeveloper&label=Views&color=blue&style=flat" alt="DharmicDeveloper" /> </p>
 
-<a href="https://twitter.com/CodingShack">
+<a href="https://twitter.com/AmanBlogs">
   <img align="left" alt="Aman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/AmanChourasia">
   <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/CodingShack">
+<a href="https://github.com/DharmicDeveloper">
   <img align="left" alt="Aman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/aman_chourasia">
@@ -26,13 +26,13 @@
 
 
 - 🔭 I’m currently working on my [Blog!](https://www.amanchourasia.in).
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Advanced Maths.
 - 👯 I’m looking to collaborate on [Youtube!](https://www.youtube.com/amanchourasia).
-- 🤔 I’m looking for help with Python.
+- 🤔 I’m looking for help with Content Writing.
 - 💬 Ask me about Java or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @CodingShack](https://twitter.com/CodingShack), [Youtube - @AmanChourasia](https://www.youtube.com/amanchourasia).
+- 📫 How to reach me: [Twitter - @AmanBlogs](https://twitter.com/AmanBlogs), [Youtube - @AmanChourasia](https://www.youtube.com/amanchourasia).
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I spend almost 12 hours wasting my time every day.
 <br>
 
 **Languages and Tools:**  
