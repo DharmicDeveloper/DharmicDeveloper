@@ -47,14 +47,17 @@
 <code><img height="20" title="Figma" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>   
 </div>
 <br/>
-<br>
+<!-- Commented section (Not Req.)
+
 <a href="https://github.com/DharmicDeveloper">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DharmicDeveloper&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
 </a>
 <br/><br/>
 <a href="https://github.com/DharmicDeveloper">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmicDeveloper&layout=compact&hide_langs_below=1" alt="Aman's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmicDeveloper&layout=compact&hide_langs_below=1" alt="Aman's github stats"/> 
 </a>
+
+-->
   
 <div align="center">
 
