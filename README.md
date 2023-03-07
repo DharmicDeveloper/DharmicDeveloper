@@ -49,15 +49,15 @@
 <br/>
 <br>
 <a href="https://github.com/DharmicDeveloper">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodingShack&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DharmicDeveloper&show_icons=true&theme=light&line_height=27" alt="Aman's github stats"/>
 </a>
 <br/><br/>
 <a href="https://github.com/DharmicDeveloper">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingShack&layout=compact&hide_langs_below=1" alt="Aman's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmicDeveloper&layout=compact&hide_langs_below=1" alt="Aman's github stats"/>
 </a>
   
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by visiting my blog and reading some of the posts!
 
 </div>
