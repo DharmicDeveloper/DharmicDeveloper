@@ -1,4 +1,4 @@
-## Ram Ram, Mai hu [Aman!](https://www.amanchourasia.in) 👋
+## 🚩 Jai Shree Ram 🚩
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DharmicDeveloper&label=Views&color=blue&style=flat" alt="DharmicDeveloper" /> </p>
 
