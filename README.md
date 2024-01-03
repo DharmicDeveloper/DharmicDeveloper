@@ -26,13 +26,10 @@
 
 
 - 🔭 I’m currently working on my [Blog!](https://www.amanchourasia.in).
-- 🌱 I’m currently learning Advanced Maths.
-- 👯 I’m looking to collaborate on [Youtube!](https://www.youtube.com/amanchourasia).
+- 🌱 I’m currently learning AI and ML in Python.
 - 🤔 I’m looking for help with Content Writing.
-- 💬 Ask me about Java or any tech-related stuff.
+- 💬 Ask me about Content Writing or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @AmanBlogs](https://twitter.com/AmanBlogs), [Youtube - @AmanChourasia](https://www.youtube.com/amanchourasia).
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours wasting my time every day.
 <br>
 
 **Languages and Tools:**  
